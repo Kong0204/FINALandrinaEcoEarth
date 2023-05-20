@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "640906237451",
+    "project_id": "ecoearth-xin",
+    "storage_bucket": "ecoearth-xin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:640906237451:android:02f188e89619075429d90e",
+        "android_client_info": {
+          "package_name": "com.example.ecoearth_xin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "640906237451-tdgd4uk2ns7q4qqlvjk0v05kujblgg08.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzWbAijF4aKhf8F63ehMA5n2W2ekEXMNQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "640906237451-tdgd4uk2ns7q4qqlvjk0v05kujblgg08.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

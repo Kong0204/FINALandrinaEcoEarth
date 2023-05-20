@@ -12,5 +12,5 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "andrinaEcoEarth"
+rootProject.name = "Ecoearth-xin"
 include ':app'

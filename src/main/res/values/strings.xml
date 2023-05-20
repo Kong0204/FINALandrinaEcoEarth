@@ -1,0 +1,24 @@
+<resources>
+
+    <string name="app_name">Eco Earth</string>
+    //login n signup part
+    <string name="login">Log In to App</string>
+    <string name="login_no_account">
+        I don\'t have an account
+        <font color="#088395"><b>Sign Up</b></font>
+    </string>
+    <string name="signup">Create an account</string>
+    <string name="signup_hv_account">
+        I have an account
+        <font color="#088395"><b>Log In</b></font>
+    </string>
+    <string name="email">Your Email Address</string>
+    <string name="password">Your Password</string>
+    <string name="name">Name</string>
+    <string name="forgot">Forgot Password?</string>
+    //drawer
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    //new
+    <string name="newContent">In this section, You will see news around climate changes. These news come from all different countries. Hope you can know more about climate changes and you can learn more details about climate changes by searching yourself.</string>
+</resources>
