@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginHorizontal="20dp"
+    android:layout_marginVertical="25dp"
+    android:gravity="center"
+    android:orientation="vertical"
+    >
+
+    <Button
+        android:id="@+id/donationChoice1"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:layout_marginHorizontal="30dp"
+        android:layout_marginBottom="50dp"
+        android:backgroundTint="#B1A436"
+        android:gravity="center"
+        android:text="Rotary International"
+        android:textAlignment="center"
+        app:layout_constraintBottom_toTopOf="@+id/donationChoice2"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+    </Button>
+
+    <Button
+        android:id="@+id/donationChoice2"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:layout_marginHorizontal="30dp"
+        android:layout_marginVertical="50dp"
+        android:backgroundTint="#F43636"
+        android:text="MERCY"
+        android:textAlignment="center"
+        app:layout_constraintBottom_toTopOf="@+id/donationChoice3"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/donationChoice1">
+
+    </Button>
+
+    <Button
+        android:id="@+id/donationChoice3"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:layout_marginHorizontal="30dp"
+        android:layout_marginVertical="50dp"
+        android:backgroundTint="#50B534"
+        android:text="Greenpeace"
+        android:textAlignment="center"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/donationChoice2">
+
+    </Button>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

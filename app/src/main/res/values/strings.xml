@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">andrinaEcoEarth</string>
+    <string name="profile_username">Username</string>
+    <string name="profile_age">Age</string>
+    <string name="profile_edit_image_button">Edit Image</string>
+    <string name="profile_bio_text">My name is Yoshikage Kira. I am 33 years old. My house is in the northeast section of Morioh, where all the villas are, and I am not married. I work as an employee for the Kame Yu department stores, and I get home every day by 8 PM at the latest. I do not smoke, but I occasionally drink. I am in bed by 11 PM, and make sure I get eight hours of sleep, no matter what. After having a glass of warm milk and doing about twenty minutes of stretches before going to bed, I usually have no problems sleeping until morning. Just like a baby, I wake up without any fatigue or stress in the morning. I was told there were no issues at my last check-up. I am trying to explain that I am a person who wishes to live a very quiet life. I take care not to trouble myself with any enemies, like winning and losing, that would cause me to lose sleep at night. That is how I deal with society, and I know that is what brings me happiness. Although, if I were to fight I would not lose to anyone.</string>
+    <string name="profile_gender">Gender</string>
+    <string name="profile_birthday">Birthday</string>
+    <string name="title_activity_donation_climate">DonationClimate</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+
+    <!--gender spinner-->
+    <string name="genderTextLabel">Gender</string>
+    <string-array name="profile_gender_selection">
+        <item>Male</item>
+        <item>Female</item>
+        <item>Other</item>
+
+    </string-array>
+
+
+</resources>
